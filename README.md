@@ -1,5 +1,5 @@
 # Schema, vecka 36
-###### Utveckling och driftsättning i molnmiljö, vecka 2 av 7
+###### Utveckling och driftsättning i molnmiljö, vecka 2 av 6
 
 ## Introduktion
 
