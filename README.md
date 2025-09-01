@@ -36,4 +36,7 @@ Nu kopplar vi samman våra funktioner med omvärlden. Med API Gateway skapar vi 
 
 ### Övningar 
 
+* [API Gateway Bootcamp](https://github.com/fu-cloud-fe24/week-36-exercise-api-gateway)
+* [Serverless Framework Bootcamp]()
+
 
