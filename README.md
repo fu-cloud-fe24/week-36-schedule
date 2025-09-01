@@ -16,16 +16,17 @@ Nu kopplar vi samman våra funktioner med omvärlden. Med API Gateway skapar vi 
 ## Resurser
 
 ### Presentationer
+ * 01 - [API Gateway](https://docs.google.com/presentation/d/191-GjAlCAZhX-oIvj7N6lpE9z6Kb9n-Q/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
+ * 02 - [Serverless Framework](https://docs.google.com/presentation/d/1fAdRFhP2VwxCV0cd6aT5LyuP_Wrq4PPx/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
-
+   
 ### Inspelade föreläsningar
 
 **LIVE**
 
-**Förinspelat**
-
 ### Lektionsrepon
 
+* [2 sept]()
 
 ### Filmer
 
