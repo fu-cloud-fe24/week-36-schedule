@@ -24,9 +24,12 @@ Nu kopplar vi samman våra funktioner med omvärlden. Med API Gateway skapar vi 
 
 **LIVE**
 
+* [API Gateway](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/EfD4Cne18OxJnUD-E4aRloEB3Z8GpiN-RYqFBxqADhdSPQ?e=PVFz2a)
+* [Serverless Framework](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/Ea7RC7t3XEdNsp67KZKS4RMBVA87L1u_5wZyTwnUal6UTA?e=wdhjYy)
+
 ### Lektionsrepon
 
-* [2 sept]()
+* [2 sept](https://github.com/fu-cloud-fe24/week-36-lecture-2-sept)
 
 ### Filmer
 
